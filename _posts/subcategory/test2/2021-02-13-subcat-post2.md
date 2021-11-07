@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Try-catch
+title: subcategory - test2
 image: /assets/img/me/coding.png
 accent_image: 
   background: url('/assets/img/me/keepgoing.png') center/cover
@@ -11,10 +11,11 @@ description: >
   Version 9.1 provides minor design changes, new features, and closes multiple issues.
 invert_sidebar: true
 categories :
- - devlog
+ - subcategory
+ - test2
 ---
 
-# Try-Catch문이란? 
+# sub-cat-post2 
 
 
 

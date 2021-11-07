@@ -4,11 +4,7 @@ image: /assets/img/me/hslee.png
 description: >
   자바 웹 백엔드 개발자 이혜수 입니다. 
 hide_description: true
-permalink: /
-redirect_from:
-  - /download/
-  categories :
- - about
+
 ---
 
 # About
@@ -17,7 +13,7 @@ redirect_from:
 
 <center>
 <span style="font-size:170%;font-weight:bold">
-이 혜 수 
+
 </span>
 </center>
 <center>MAJOR : COMPUTER ENGINEERING </center>
