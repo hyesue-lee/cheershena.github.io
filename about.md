@@ -1,18 +1,77 @@
 ---
 layout: about
-image: /assets/img/blog/hydejack-9.jpg
+image: /assets/img/me/hslee.png
 description: >
-  A boutique Jekyll theme for hackers, nerds, and academics,
-  with a focus on personal sites that are meant to impress.
+  자바 웹 백엔드 개발자 이혜수 입니다. 
 hide_description: true
 permalink: /
 redirect_from:
   - /download/
+  categories :
+ - about
 ---
 
 # About
 
 <!--author-->
+
+<center>
+<span style="font-size:170%;font-weight:bold">
+이 혜 수 
+</span>
+</center>
+<center>MAJOR : COMPUTER ENGINEERING </center>
+<center>XXX University</center>
+<center>Seoul, Republic of Korea</center>
+## Personal Data
+---
+> 19xx.xx.xx 대한민국,xx 시,xx 구 출생 <br/>
+> 연락처: hyesue12@gmail.com <br/>
+> Github : [https://github.com/hyesue-lee](https://github.com/hyesue-lee) <br/>
+## Education
+---
+> Mar.20xx ~ Feb.20xx xx 대학교
+>
+> 컴푸터공학 (COMPUTER ENGINEERING)
+
+## Research Interest
+---
+* Computer Vision
++ image Object Detection
++ Vot
++ Semantic/Instance Segmentation
++ Super Resolution
+* Machine Learning / Deep Learning
++ GAN
++ Few-Shot Learning
++ Meta Learning
+
+## Project
+---
+* **Visual Object Tracking Using Plenoptic Image Sequences**
+* **FPV Swlf-driving RC Car**
+* **Anti Drone AI Robot using object detection**
+* **AI Mashroom Classificator App**
+
+## Work Experiences
+---
+-2020. 07 – 2020. 11
+Work place name and what i did 
+
+## Skills and Certification
+---
+-Language : Java, Python, C/C++ <br/>
+-FrameWork: Spring,  Tensorflow(Keras) <br/>
+-Certification : SQLD, 정보처리기사
+
+
+
+
+
+
+
+<!--
+
 
 ## Hydejack
 
@@ -50,13 +109,13 @@ Hydejack is all static sites. _HTML_. All you need is a web server --- any web s
 ## A Free Blogging Theme
 **Hydejack** started out as a free blogging theme for Jekyll — and continues to be so.
 
-<!--posts-->
+<!--posts
 
 
 ## An Impressive Portfolio
 A portfolio that's guaranteed to be impressive — no matter what you put into it.
 
-<!--projects-->
+<!--projects
 
 
 ## A Printable Resume
@@ -85,7 +144,7 @@ The Hydejack blog, as seen by the text browser `w3m`.
 **Hydejack** features syntax highlighting, powered by [Rouge].
 
 ```html
-<!-- file: `_includes/my-body.html` -->
+<!-- file: `_includes/my-body.html` 
 <script type="module">
   document.querySelector("hy-push-state").addEventListener("hy-push-state-load", () => {
     const supportsCodeHighlights = false; // TBD!!
@@ -176,3 +235,4 @@ Use the the form below to purchase Hydejack PRO:
 [katex]: https://khan.github.io/KaTeX/
 [mathjax]: https://www.mathjax.org/
 [tinyletter]: https://tinyletter.com/
+-->
