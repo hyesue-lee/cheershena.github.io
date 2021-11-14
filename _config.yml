@@ -52,6 +52,8 @@ author:
 menu:
   - title:             About
     url:               /about/
+  - title:             Posts
+    url:               /posts/
   - title:             Devlog
     url:               /devlog/
   - title:             Board

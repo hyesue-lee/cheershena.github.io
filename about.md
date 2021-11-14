@@ -2,7 +2,7 @@
 layout: about
 image: /assets/img/me/hslee.png
 description: >
-  자바 웹 백엔드 개발자 이혜수 입니다. 
+  자바 웹 백엔드 개발자 입니다. 
 hide_description: false
 
 ---
