@@ -21,7 +21,7 @@ url:                   https://hyesue-lee.github.io
 lang:                  ko-KR, en-US
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Hena Lee
+title:                 Hena's Devlog
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
@@ -29,7 +29,7 @@ description:           >
     welcome !!!
 
 # A shorter description for the sidebar.
-tagline:              welcome to my devlog :)
+tagline:              welcome to my dev-blog :)
 
 
 # A list of keywords for your blog
@@ -38,7 +38,7 @@ keywords:              [cheers_hena, devlog, gitblog ]
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo:                  /assets/img/me/hslee.png
+#logo:                  /assets/img/me/hslee.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
@@ -50,14 +50,14 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             About
-    url:               /about/
-  - title:             Devlog
-    url:               /devlog/
-  - title:             Gibhub
-    url:               /github/
+#  - title:             About
+#    url:               /about/
   - title:             Posts
     url:               /posts/
+  - title:             Devlog
+    url:               /devlog/
+  - title:             Github
+    url:               /github/
   - title:             SubCategory
     url:               /subcategory/
     submenu:
@@ -432,11 +432,18 @@ jekyll_compose:
         - title: Project Link
           url: https://example.com
 
-tipue_search: 
-  include: #포함 url
+#tipue_search: 
+ # include: #포함 url
+  #  pages: false
+   # collections: []
+ # exclude:
+  #  files: [search.html, index.html, tags.html]
+   # categories: []
+   # tags: []
+# Tipue search settings
+tipue_search:
+  include:
     pages: false
-    collections: []
   exclude:
-    files: [search.html, index.html, tags.html]
-    categories: []
-    tags: []
+    files: [search.html, index.html]
+
