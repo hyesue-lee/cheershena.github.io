@@ -2,7 +2,7 @@
 
 A quicker, cleaner way to get started blogging with [Hydejack](https://hydejack.com/).
 
-## Quick Start
+## Quick Start 111
 ### Running locally
 1. Clone repository (git users), or [download] and unzip.
 2. Open terminal, `cd` into root directory (where `_config.yml` is located)
